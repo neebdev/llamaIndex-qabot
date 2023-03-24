@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+openai
+llama-index
+langchain
+flask_cors
